@@ -61,3 +61,73 @@ td{
 .heading-1{
     color: indianred;
 }
+.CELIA:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.LORDMOUNT:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.LORDTOLL:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.LEILA:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.FLETA:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.QUEEN:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.WILLIS:hover{
+    background: rgb(211, 68, 68);
+    box-shadow: 0 8px 8px -4px lightcoral;
+    color: white;
+
+}
+.siteicon{
+    float: right;
+    max-width: 50px;
+    margin: 0 70px 0 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(232, 112, 124);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(252, 244, 244);
+  }
